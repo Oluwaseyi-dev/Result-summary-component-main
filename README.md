@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Oluwaseyi-dev/Result-summary-component-main)
+- Live Site URL: [Add live site URL here](https://oluwaseyi-dev.github.io/Result-summary-component-main/)
 
 
 ### Built with
